@@ -2,9 +2,7 @@
 
 [PDF](mud.pdf)
 
-O artigo feito pela Universidade de Illinois, em 1997, discute o que eles denominam a arquitetura de software mais comum, "A grande bola de lama". Isso contrasta com a maioria das discussões em torno dos padrões arquiteturais de alto nível, em que, **enquanto se fala sobre sistemas bem projetados, acabam-se entregando sistemas feitos rapidamente.**
-
-Diante desse cenário, os autores exploram uma hipótese simples, mas poderosa: se essa abordagem é tão popular, ela deve estar, pelo menos parcialmente, correta. Assim, busca-se entender o que leva ao surgimento de uma arquitetura indescritível, por que ela é tão eficaz e como gerenciá-la. E, para atingir esse objetivo, é necessário entender o que é a arquitetura "*BIG BALL OF MUD*".
+O artigo feito pela Universidade de Illinois, em 1997, discute o que eles denominam a arquitetura de software mais comum, "A grande bola de lama". Isso contrasta com a maioria das discussões em torno dos padrões arquiteturais de alto nível, em que, **enquanto falam sobre sistemas bem projetados, entregam sistemas funcionais.** Diante desse cenário, os autores exploram uma hipótese simples, mas poderosa: se essa abordagem é tão popular, ela deve estar, pelo menos parcialmente, correta. Assim, busca-se entender o que leva ao surgimento de uma arquitetura indescritível, por que ela é tão eficaz e como gerenciá-la. E, para atingir esse objetivo, é necessário entender o que é a arquitetura "*BIG BALL OF MUD*".
 
 Em contraste com a arquitetura em camadas ou com uma pipeline arquitetural bem definida, que todos os sistemas em um mundo perfeito seguiriam, a "bola de lama" é definida por todos os atalhos tomados com pressa e reparos feitos com urgência. Estamos acostumados, especialmente em ambientes acadêmicos, a lidar com softwares bem definidos, a estudar diagramas de classe, implantação, entidade e relacionamento. Vemos contextos e domínios bem definidos, temos questões objetivas e, mesmo com prazos marcados em pedra, há uma recompensa por ter uma estrutura interna elegante.
 
